@@ -3,3 +3,5 @@ include
 lib
 share
 *.cfg
+.venv
+.env
